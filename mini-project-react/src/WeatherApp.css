@@ -1,0 +1,24 @@
+
+.weatherApp {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
+    background-image: url('https://image.shutterstock.com/image-vector/illustration-cloud-rain-on-blue-260nw-1176218629.jpg'); 
+    background-size: cover;
+    background-size: 100% 130%; 
+    background-position: center top;
+    
+
+}
+
+
+h1 {
+    font-size: 3rem;
+    margin-bottom: 20px;
+    text-shadow: 2px 2px 5px black;
+}
+
